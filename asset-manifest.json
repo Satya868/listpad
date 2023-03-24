@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/listpad/static/css/main.6f7ed377.css",
+    "main.js": "/listpad/static/js/main.433e5001.js",
+    "index.html": "/listpad/index.html",
+    "main.6f7ed377.css.map": "/listpad/static/css/main.6f7ed377.css.map",
+    "main.433e5001.js.map": "/listpad/static/js/main.433e5001.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6f7ed377.css",
+    "static/js/main.433e5001.js"
+  ]
+}
